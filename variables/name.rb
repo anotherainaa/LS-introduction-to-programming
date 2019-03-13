@@ -17,3 +17,10 @@ first_name = gets.chomp
 puts "What is your last name?"
 last_name = gets.chomp
 puts "Hi there " + first_name + " " + last_name
+
+# Variables: Exercise 5
+
+# For first one, x = 3
+
+# For second one, an undefined error will be thrown because x cannot be
+# accessed outside of the block
