@@ -37,7 +37,13 @@ puts dates[3]
 puts 5 * 4 * 3 * 2 * 1
 puts 6 * 5 * 4 * 3 * 2 * 1
 puts 7 * 6 * 5 * 4 * 3 * 2 * 1
-puts 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1
+puts 8 * 7 * 6 * 5 * 4 * 3 * 2 *
+
+# The basics: Exercise 6
+
+puts 3.12 * 3.12
+puts 99.99 * 99.99
+puts 7.34 * 7.34
 
 # The basics: Exercise 7
 
